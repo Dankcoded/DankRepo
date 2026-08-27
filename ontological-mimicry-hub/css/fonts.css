@@ -1,0 +1,5 @@
+/* Typography layer for the interactive exhibit. */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Inter:wght@300;400;600&family=JetBrains+Mono:wght@300;400;700&display=swap');
+.font-cinzel { font-family: 'Cinzel', serif; }
+.font-inter { font-family: 'Inter', sans-serif; }
+.font-mono { font-family: 'JetBrains Mono', monospace; }
